@@ -2,8 +2,8 @@
 |||
 |--|--|
 |Tantárgy|Szoftverfejlesztés gyakorlat: C#|
-|Óraszám|11|
-|Dátum|2019.11.22|
+|Óraszám|11. óra|
+|Dátum|2019. 11. 22.|
 |||
 
 ## Feladatok:
